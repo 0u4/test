@@ -13,20 +13,20 @@ presskit_download_link                    : https://sharkaby.com                
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : App to not change but un-clutter the life.
+app_description                           : made to not change but un-clutter the life
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : Abhishek                                
-your_link                                 : https://sharkaby.com                     
-your_city                                 : India                                
-email_address                             : sharkaby.com
-facebook_username                         :                                           
-instagram_username                        : sharkaby
-twitter_username                          : sharkaby
+your_name                                 : # Abhishek                                
+your_link                                 : # https://sharkaby.com                     
+your_city                                 : # India                                
+email_address                             : # sharkaby.com
+facebook_username                         : # sharkaby                                         
+instagram_username                        : # sharkaby_
+twitter_username                          : sharkaby_
 github_username                           : sharkaby
 youtube_username                          :
 
