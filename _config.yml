@@ -6,14 +6,14 @@ ios_app_id                                : 1234793120                          
 ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            :                                           # Enter Google Play Store URL.
+playstore_link                            : https://play.google.com/store/apps/details?id=com.ichi2.anki                                          # Enter Google Play Store URL.
 presskit_download_link                    : https://sharkaby.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : made to not change but un-clutter the life
+app_description                           : # made to not change but un-clutter the life
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -23,9 +23,9 @@ enable_smart_app_banner                   : true                                
 your_name                                 : # Abhishek                                
 your_link                                 : # https://sharkaby.com                     
 your_city                                 : # India                                
-email_address                             : # sharkaby.com
-facebook_username                         : # sharkaby                                         
-instagram_username                        : # sharkaby_
+email_address                             :  sharkaby.com
+facebook_username                         :  sharkaby                                         
+instagram_username                        :  sharkaby_
 twitter_username                          : sharkaby_
 github_username                           : sharkaby
 youtube_username                          :
@@ -38,7 +38,7 @@ features                                  :
   - title                                 : Better UI and Engaging
     description                           : Designed for making better use of Mobile. Voilá!
     fontawesome_icon_name                 : magic   
-
+    
   - title                                 : # New Feature Title
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
